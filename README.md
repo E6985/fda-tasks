@@ -67,7 +67,20 @@ Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technolo
 
 #### Coding Conventions
 
-- ``Getting Started`` > ``Development``
+| Example       | Signify 			      |
+| ------------- |:-----------------------:|
+|	C        	|	class   		      |
+|	d    		|	module first letter   |
+|	e			|	class any letter      |
+|	l			|	class final letter    |
+
+```python
+n___
+```
+
+| Example       | Signify 		          |
+| ------------- |:-----------------------:|
+|	n        	|	name - no variables   |
 
 #### Environment
 
