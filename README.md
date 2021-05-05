@@ -1,11 +1,11 @@
-< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/E6985) | [README](https://github.com/E6985/fda-tasks/blob/main/README.md) >
+< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/fda-tasks/blob/main/README.md) >
 
-![GMIT](https://github.com/E6985/pda-numpy-random/blob/main/img/gmit.png?raw=true)
+![GMIT](https://github.com/SeanOhAileasa/pda-numpy-random/blob/main/img/gmit.png?raw=true)
 
 ## Fundamentals of Data Analysis - Tasks 2020
 ## Due: last commit on or before December 18th, 2020
 
-Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the instructions for the Tasks assessment for the ``Fundamentals of Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Four tasks were presented at different times during the semester and all were to be completed in a single [Jupyter Notebook](https://github.com/E6985/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb).
+Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the instructions for the Tasks assessment for the ``Fundamentals of Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Four tasks were presented at different times during the semester and all were to be completed in a single [Jupyter Notebook](https://github.com/SeanOhAileasa/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb).
 
 ## Assignment
 
@@ -61,7 +61,7 @@ https://www.anaconda.com/download/
 
 	- Clone the repository with the following command:
 
-	``$ git clone https://github.com/E6985/fda-tasks.git``
+	``$ git clone https://github.com/SeanOhAileasa/fda-tasks.git``
 
     - Run Jupyter Notebooks from the directory it was cloned with the following command:
 
@@ -75,4 +75,4 @@ https://www.anaconda.com/download/
 
 - If not running Jupyter notebook from local machine can alternatively use nbviewer: 
 
-	- Render Jupyter notebook [here](https://nbviewer.jupyter.org/github/E6985/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb)
+	- Render Jupyter notebook [here](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb)
